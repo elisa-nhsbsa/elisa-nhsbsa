@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elisa @elisa-nhsbsa
 - 👀 I’m interested in UX design, learning, graphic design, and coding. Outside of work I enjoy walks in the city or nature, drawing, colouring and making jewelry
 - 🌱 I’m currently learning & improving my skills in HTML5, CSS3 and JavaScript
-- 💞️ I’m looking to collaborate on creating hgh-fidelity code prototypes for User Experience, testing or just beautiful interactive pages
+- 💞️ I’m looking to collaborate on creating high-fidelity code prototypes for User Experience, testing or just beautiful interactive pages
 - 📫 How to reach me if you are my work colleague: elisa.lazar@nhs.net
 
 <!---

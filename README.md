@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning & improving my skills in HTML5, CSS3, JavaScript, Node.js and Java.
 - 💞️ I’m looking to collaborate on creating high-fidelity code prototypes for User Experience, testing or just beautiful interactive pages
 - 📫 How to reach me if you are my work colleague: elisa.lazar@nhs.net
+- 📫 How to reach me outside of work: lazarelisa925@gmail.com
 
 <!---
 elisa-nhsbsa/elisa-nhsbsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
